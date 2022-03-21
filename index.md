@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to FBA Tours
 
 You can use the [editor on GitHub](https://github.com/FBAtours/fbatours.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
