@@ -3,6 +3,13 @@ html, body {
   height: 100%;
 }
 
+
+#title {
+  position: center;
+  height: 50px;
+  color: black;
+}
+
 .bg-img {
   position: relative;
   width: 100%;
