@@ -9,12 +9,6 @@ html, body {
             box-sizing: border-box;
         }
 
-        body{
-            margin: 0;
-            background-color: transparent;
-            color: #fff;
-            font-family: Calibri, sans-serif;
-        }
 
         .center{
             width: 100%;
