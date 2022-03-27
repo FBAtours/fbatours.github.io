@@ -5,12 +5,12 @@ html, body {
 
 
 #title {
-  position: center;
+  text-align: center;
   height: 50px;
   color: black;
   padding-top: 50px;
   margin: 0;
-  background: opacity(0);
+  background-color: 0;
   
 }
 
