@@ -8,6 +8,9 @@ html, body {
   position: center;
   height: 50px;
   color: black;
+  padding-top: 50px;
+  margin: 0;
+  
 }
 
 .bg-img {
