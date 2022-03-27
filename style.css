@@ -4,7 +4,7 @@ html, body {
 }
 
 
-#title {
+.title {
   text-align: center;
   height: 50px;
   color: black;
@@ -13,11 +13,11 @@ html, body {
   background-color: 0;
 }
 
-#text{
+.text {
 background: -webkit-linear-gradient(
     120deg,
     var(--primary-color-alt),
-    var(--primary-color)
+    var(--primary-color);
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
